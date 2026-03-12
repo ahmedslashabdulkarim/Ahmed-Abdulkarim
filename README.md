@@ -45,11 +45,10 @@ I focus mainly on **Java, Spring Boot, and modern web technologies**, and I enjo
 
 ---
 ## 📜 Certifications
-
-- ☕ Oracle Certified Associate – Java Programmer
+  
 -  ![PHP](https://img.shields.io/badge/PHP-violet?style=for-the-badge&logo=php)
 - 🟣 Zend Certified PHP Engineer
------
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 - 🟡 Certified Webmasters Europe e.V. 
 
