@@ -19,33 +19,25 @@ I focus mainly on **Java, Spring Boot, and modern web technologies**, and I enjo
 
 # 🚀 Tech Stack
 
-## Backend
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-## Frontend
+
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
-## Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 
 ---
-
-# 🧪 Testing
-
 ![JUnit](https://img.shields.io/badge/JUnit5-green?style=for-the-badge)
 ![Mockito](https://img.shields.io/badge/Mockito-blue?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/TDD-red?style=for-the-badge)
 
 ---
-
-# ⚙️ Dev Tools
-
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
@@ -72,6 +64,6 @@ I focus mainly on **Java, Spring Boot, and modern web technologies**, and I enjo
 
 # 📫 Connect with me
 
-💼 LinkedIn  
-💻 GitHub  
-📧 Email
+💼 LinkedIn: https://www.linkedin.com/in/ahmed-abdulkarim-software-developer/
+
+
