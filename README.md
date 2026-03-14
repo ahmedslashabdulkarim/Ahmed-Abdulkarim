@@ -1,7 +1,7 @@
 # Hi there..
 
 
-# 🚀 Tech Stack
+# Tech Stack
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
