@@ -1,11 +1,5 @@
 # Hi there..
 
-💻 Java Full-Stack Developer based in Germany  
-🚀 Passionate about building scalable web applications and clean backend architectures.
-
-I focus mainly on **Java, Spring Boot, and modern web technologies**, and I enjoy working with clean code, testing, and agile development.
-
----
 
 # 🚀 Tech Stack
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
@@ -36,12 +30,12 @@ I focus mainly on **Java, Spring Boot, and modern web technologies**, and I enjo
 ![Eclipse](https://img.shields.io/badge/Eclipse-blue?style=for-the-badge&logo=eclipseide)
 ![Xcode](https://img.shields.io/badge/Xcode-blue?style=for-the-badge&logo=xcode)
 
-# 👨‍💻 About Me
 
+# 👨‍💻 About Me_
 - 💼 Junior Java Full-Stack Developer
 - 📍 Based in Germany
 - ☕ Passionate about clean code and software architecture
-- 🤝 Enjoy working in **Agile teams**
+- 🤝 Enjoy coffee and working in **Agile teams**
 
 ---
 ## 📜 Certifications
@@ -62,4 +56,4 @@ I focus mainly on **Java, Spring Boot, and modern web technologies**, and I enjo
 # 📫 Connect with me
 💼 LinkedIn: https://www.linkedin.com/in/ahmed-abdulkarim-software-developer/
 
-
+" Der Weg von einer unklaren Idee zu einer klaren ist nich mit Ideen gepflastert. *PaulValéry "
