@@ -31,12 +31,6 @@
 ![Xcode](https://img.shields.io/badge/Xcode-blue?style=for-the-badge&logo=xcode)
 
 
-# 👨‍💻 About Me_
-- 💼 Junior Java Full-Stack Developer
-- 📍 Based in Germany
-- ☕ Passionate about clean code and software architecture
-- 🤝 Enjoy coffee and working in **Agile teams**
-
 ---
 ## 📜 Certifications
   
